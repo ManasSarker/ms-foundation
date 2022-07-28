@@ -1,6 +1,19 @@
 .MS-nav-list {
   margin-left: 25%;
 }
-.work-image {
-  width: 100%;
+.feedback-icon {
+  position: relative;
+
+  top: 45px;
+  right: 25px;
+  font-size: 30px;
+  color: #72ffff;
+}
+
+.feedback-icon-right {
+  position: relative;
+  font-size: 30px;
+  left: 25px;
+  top: 45px;
+  color: blue;
 }
